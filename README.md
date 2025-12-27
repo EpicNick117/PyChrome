@@ -1,2 +1,2 @@
 # PyChrome
-A python web browser (This is the setup file)
+A python web browser that was made by chat gpt.
